@@ -10,7 +10,7 @@ app.use(bodyParser.json());
 
 const port = process.env.PORT || 8080;
 
-app.listen(port, () => console.log('Server started at port : 3000'));
+app.listen(port, () => console.log('Server started at port...'));
 
 app.use('/departments', departmentController);
 app.use('/faculties', facultyController);
