@@ -25,3 +25,9 @@ Domain:  Academic Faculties & Departments of 	University of Rajshahi
 4.7  Lab facilities
 4.8  Number of staffs
 4.9  Location
+
+#END POINTS
+
+https://department-faculty-of-ru.herokuapp.com/infos
+https://department-faculty-of-ru.herokuapp.com/departments
+https://department-faculty-of-ru.herokuapp.com/faculties
