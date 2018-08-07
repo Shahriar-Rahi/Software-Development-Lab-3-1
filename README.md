@@ -28,6 +28,6 @@ Domain:  Academic Faculties & Departments of 	University of Rajshahi
 
 #END POINTS
 
-https://department-faculty-of-ru.herokuapp.com/infos
-https://department-faculty-of-ru.herokuapp.com/departments
+https://department-faculty-of-ru.herokuapp.com/infos ------ 
+https://department-faculty-of-ru.herokuapp.com/departments -----
 https://department-faculty-of-ru.herokuapp.com/faculties
