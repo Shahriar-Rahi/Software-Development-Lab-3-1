@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const { mongoose } = require('./db.js');
 var departmentController = require('./controllers/departmentController.js');
 var facultyController = require('./controllers/facultyController.js');
-var infoController = require('/controllers/infoController.js');
+var infoController = require('./controllers/infoController.js');
 
 var app = express();
 app.use(bodyParser.json());
